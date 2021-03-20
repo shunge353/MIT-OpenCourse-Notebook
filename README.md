@@ -11,4 +11,4 @@ Website:https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fal
 ## Single Varibale Calculus
 Website:https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/
 
-Notebook to be published later~
+Notebook to be published later
